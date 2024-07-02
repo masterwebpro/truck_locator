@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>PCL - Truck Locator</title>
+        <link rel="shortcut icon" href="{{ URL::asset('assets/images/favicon.ico')}}">
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
